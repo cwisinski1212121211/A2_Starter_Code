@@ -4,8 +4,8 @@
 
 - Student A: Caden Wisinski
 - GitHub username: cw13
-- Student B:
-- GitHub username:
+- Student B: Garett Lenzendorf
+- GitHub username: glenzendorf-lgtm
 
 ## Branch Work
 
@@ -19,6 +19,5 @@
 
 2. How did you resolve it?
 
-3. Give two practices that can reduce unnecessary Git conflicts on a real team.
-   -
+3. ## Give two practices that can reduce unnecessary Git conflicts on a real team.
    -
