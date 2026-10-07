@@ -9,9 +9,9 @@
 
 ## Branch Work
 
-- Feature branch created:
-- What changed on the branch:
-- Who merged it into `main`:
+- Feature branch created: feature-about
+- What changed on the branch: Adeed two lines containing the major of each group member
+- Who merged it into `main`: glenzendorf-lgtm
 
 ## Conflict Reflection
 
